@@ -20,7 +20,7 @@ timezone: Asia/Kolkata
 
 title: Sudharshana VP # the main title
 
-tagline: Personal Website   # it will display as the sub-title
+tagline:   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   My blog where I write about programming and other random stuff that comes to mind
