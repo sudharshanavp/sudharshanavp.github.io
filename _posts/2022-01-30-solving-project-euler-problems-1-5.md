@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Solving Project Euler: Problems 1'
+title: 'Solving Project Euler: Problem 1'
 date: 2022-01-30 13:39 +0530
 math: true
 categories: [Project Euler]
@@ -15,11 +15,9 @@ I thought I'd document my journey through solving these problems so here we are!
 * I use HackerRank as my platform to solve these problems, HackerRank has the first 250 problems of Project Euler as a challenge on their website. I like the HackerRank platform so I'll be using this.
 * The programming language that I'll be using is Python because that's the language I'm currently focusing on.
 
-## Problem 1: Multiples of 3 or 5
+## Problem 1: Multiples of 3 and 5
 
-Link: <https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem>
-
-### Problem Statement
+HackerRank Link: <https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem>
 
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
 Find the sum of all the multiples of 3 or 5 below N.
