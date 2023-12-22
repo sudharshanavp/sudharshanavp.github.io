@@ -54,6 +54,6 @@ There are three main steps we are using here
 
 1. Step 1 is to take care of numbers that are even, we repeatedly divide the number by 2 until the number becomes odd.
 2. Step 2 is to take care of the odd numbers, we start the range from 3 and increment the numbers by 2 here because 2 is the only even prime factor.
-    1. Now, the reason why we have used $\sqrt[n] + 1$ here is because of a simple property of composite numbers that every composite number has a prime factor either lesser or equal to it's square root.
+    1. Now, the reason why we have used $\sqrt n + 1$ here is because of a simple property of composite numbers that every composite number has a prime factor either lesser or equal to it's square root.
     2. So what we do is find the least prime factor, remove all occurences of it by dividing the number by the least prime factor and repeat it until the number reduces to either $1$ or a prime number
 3. whenever we encounter a prime number we check if it's larger than the existing prime number and if it is we replace it.
