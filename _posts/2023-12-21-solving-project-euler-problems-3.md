@@ -11,7 +11,7 @@ tags:
 math: true
 date: 2023-12-21 17:00 +0530
 ---
-## Problem 2: Even Fibonacci Numbers
+## Even Fibonacci Numbers
 
 Project Euler Prompt
 
